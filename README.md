@@ -1,0 +1,1 @@
+Repositório feito para salvar os estudos de banco de dados no sql por linha de comando. Foi estudado comandos como create, alter, drop, insert, update, delete, além de agrupamento, subconsulta, pl sql e alguns assuntos mais.
